@@ -1,0 +1,28 @@
+---
+galaxy_info:
+  role_name: prom_node_exporter
+  author: "Rubens Franco"
+  description: "Install Prometheus node_exporter"
+  license: "GNU GENERAL PUBLIC LICENSE v2"
+  min_ansible_version: "2.9"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - "jammy"
+        - "focal"
+        - "bionic"
+    - name: Debian
+      versions:
+        - "bullseye"
+        - "buster"
+    - name: EL
+      versions:
+        - "9"
+        - "8"
+  galaxy_tags:
+    - monitoring
+    - observability
+    - prometheus
+    - exporter
+    - node
+dependencies: []
