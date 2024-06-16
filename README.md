@@ -1,5 +1,9 @@
 # Ansible Prometheus Node Exporter Role
 
+[![Lint Ansible roles](https://github.com/francomile/ansible-role-prom-node-exporter/actions/workflows/ansible_lint.yml/badge.svg)](https://github.com/francomile/ansible-role-prom-node-exporter/actions/workflows/ansible_lint.yml)
+
+[![Release role to Ansible Galaxy](https://github.com/francomile/ansible-role-prom-node-exporter/actions/workflows/push_to_galaxy.yml/badge.svg)](https://github.com/francomile/ansible-role-prom-node-exporter/actions/workflows/push_to_galaxy.yml)
+
 ## Actions of the Role
 
 * Install Prometheus node_exporter
